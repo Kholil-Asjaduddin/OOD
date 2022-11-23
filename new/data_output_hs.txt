@@ -1,0 +1,24 @@
+Enter patient's ID: P123456789
+
+Enter patient's first name: John
+
+Enter patient's last name: Doe
+
+Enter doctor's first name: Harry
+
+Enter doctor's last name: Collins
+
+Enter doctor's speciality: Cardiologist
+
+Patient: John Doe
+ID: P123456789  Date Of Birth: 12-11-1985
+Attending Physician: Harry Collins Cardiologist
+Admit Date: 8-21-2020
+Discharge Date: 8-28-2020
+
+Pharmacy Charges:   $445.00
+Room Charges:       $3000.00
+Doctor's Fees:      $4500.38
+____________________________
+Total:              $7945.38
+Press any key to continue . . .
